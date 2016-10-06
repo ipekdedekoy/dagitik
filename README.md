@@ -1,1 +1,2 @@
 Birinci odev
+# dagitik
