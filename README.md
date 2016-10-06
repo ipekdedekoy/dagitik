@@ -1,2 +1,2 @@
-Birinci odev
+ODEVLER
 # dagitik
